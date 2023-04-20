@@ -1,2 +1,2 @@
-hola mundo 1
+borrado de hola mundo 1
 hola mundo 2 en archivo clase-1
